@@ -1,0 +1,59 @@
+h3 {
+    font-family: Helvectiva, Arial, sans-serif;
+    margin-right: 250px;
+    color: white;
+}
+.h3-1 {
+    float: right;
+    margin-top: -41px;
+}
+.h3-1-button {
+    float: right;
+    margin-right: 100px;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    font-family: Helvectiva, Arial, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 12px;
+    margin-top: -49px;
+}
+.h3-1-button:hover {
+    background-color: white;
+    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.4s;
+    color: black;
+}
+.h3-1-title {
+   color: white;
+    text-decoration: none;
+    background-color: black;
+    font-family: Helvectiva, Arial, sans-serif;
+    font-weight: bold; 
+    border-radius: 60px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 1px
+}
+.footer {
+    padding-top: 20px;
+}
+.h3-2 {
+    color: black;
+    padding: 10px;
+}
+@font-face {
+  font-family: "SF Display";
+  src: url("https://sf.abarba.me/SF-UI-Display-Regular.otf");
+}
+@font-face {
+  font-family: "SF Bold";
+  font-weight: 700;
+  src: url("https://sf.abarba.me/SF-UI-Display-Bold.otf");
+}
